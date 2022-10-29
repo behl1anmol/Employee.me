@@ -3,8 +3,9 @@ Employee.me is an app to fetch Employee data from a SQL Database by consuming a 
 
 ### Platforms
 
-- [x] Android
-- [x] Windows
+- [x] Android  [![Build Status](https://dev.azure.com/behl1anmol/Planner/_apis/build/status/behl1anmol.Employee.me?branchName=master)](https://dev.azure.com/behl1anmol/Planner/_build/latest?definitionId=7&branchName=master)
+- [x] Windows  [![Build Status](https://dev.azure.com/behl1anmol/Planner/_apis/build/status/behl1anmol.Employee.me?branchName=master)](https://dev.azure.com/behl1anmol/Planner/_build/latest?definitionId=7&branchName=master)
+- [x] iOS  
 
 ## Features
 * Using MS SQL 
