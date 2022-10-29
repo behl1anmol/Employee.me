@@ -16,8 +16,8 @@ Employee.me is an app to fetch Employee data from a SQL Database by consuming a 
 ## Preview
 
 ### Windows
-<img  src="Screenshots/Windows/MainPage.jpg" width="250" height="550"> &nbsp;&nbsp;&nbsp; 
-<img src="Screenshots/Windows/EmployeeView.jpg" width="250" height="550"> &nbsp;&nbsp;&nbsp;
+<img src="Screenshots/Windows/MainPage.jpg"> &nbsp;&nbsp;&nbsp; 
+<img src="Screenshots/Windows/EmployeeView.jpg"> &nbsp;&nbsp;&nbsp;
 
 ### Android
 <img  src="Screenshots/Android/MainPage.jpg" width="250" height="550"> &nbsp;&nbsp;&nbsp; 
